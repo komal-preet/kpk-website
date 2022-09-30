@@ -137,22 +137,6 @@ quarto.cmd publish netlify
 
 You'll then need to create an account with netlify (if you don't already have one). It'll then render the site and then push it to netlify. You can then add a custom domain and do some other customization about updating the site once it is published and live.
 
-2. Publish indirectly to netlify with Github. The route I go. I do this because I'd prefer to have things version controlled. That way if I mess something up with my site, I can back track to the version of the site before it broke.
-
-    1. You want to create a github repo and push it to github
-
-    ``` terminal
-    touch readme.md
-    git init
-    touch .gitignore
-    git status
-    git add -A
-    git commit -a -m "initial commit"
-    git branch -M main
-    git remote add origin git@github.com:damoncharlesroberts/dcr-website.git
-    git push -u origin main
-    ```
-
 
 # Here's a oversimplified file tree
 
