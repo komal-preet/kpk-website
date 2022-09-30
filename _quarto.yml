@@ -13,7 +13,7 @@ website:
     left:
         - home_index.qmd
         - text: "CV"
-          href: https://www.dropbox.com/s/ytbggop4iy2oq77/cv.pdf?dl=0
+          file: sections/cv/dcr_cv.pdf
         - sections/teaching/teaching_index.qmd
         - sections/blog/blog_index.qmd
 format:
