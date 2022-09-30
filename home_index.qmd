@@ -2,7 +2,7 @@
 title: "Welcome"
 bibliography: "assets/publications.bib"
 nocite: |
-    @roberts_utych_2021_ssq, @roberts_utych_2020_prq, roberts_utych_2020_apr, @roberts_wolak_2022_pb, @fahey_et-al_2022_apr
+    @roberts_utych_2020_prq, @roberts_utych_2021_ssq, @roberts_utych_2021_apr, @fahey_et-al_2022_apr, @roberts_wolak_2022_pb
 ---
 
 # About {#about}
