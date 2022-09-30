@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Damon C. Roberts"
+  reader-mode: true
+  page-footer: "Copyright 2022, Damon C. Roberts"
+  open-graph: true
+  google-analytics: "UA-142765193-1"
+  navbar:
+    background: primary
+    search: true
+    left:
+        - home_index.qmd
+        - text: "CV"
+          href: https://www.dropbox.com/s/ytbggop4iy2oq77/cv.pdf?dl=0
+        - sections/teaching/teaching_index.qmd
+        - sections/blog/blog_index.qmd
+format:
+  html:
+    theme: journal
+    code-copy: true
+    css: styles.css
+    toc: true
