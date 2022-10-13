@@ -5,6 +5,7 @@ date: today
 categories:
     - grad school advice
     - technical
+    - quarto
 draft: false
 engine: markdown
 ---

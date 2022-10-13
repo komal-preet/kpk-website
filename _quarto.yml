@@ -18,9 +18,12 @@ website:
         - sections/blog/blog_index.qmd
 format:
   html:
-    theme: journal
+    theme: 
+      - journal
+      - assets/custom.scss
     code-copy: true
     css: styles.css
     toc: true
+    code-overflow: wrap
 execute:
   freeze: auto

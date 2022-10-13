@@ -1,4 +1,5 @@
-/.quarto/
-/_site/
+.quarto/
+_site/
 dcr_cv.tex
 res.cls
+_freeze/
