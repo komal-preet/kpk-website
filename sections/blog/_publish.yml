@@ -1,0 +1,6 @@
+- source: project
+  netlify:
+    - id: 9568ae79-3273-408b-8054-7df20d661ae3
+      url: 'https://timely-dieffenbachia-719fd5.netlify.app'
+    - id: 4c28b6fc-87f0-4530-b95f-9083828651bd
+      url: 'https://clinquant-malabi-8969c2.netlify.app'
