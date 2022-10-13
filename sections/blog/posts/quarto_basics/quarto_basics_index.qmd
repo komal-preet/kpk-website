@@ -1,7 +1,7 @@
 ---
 title: "Quarto Basics"
 author: "Damon C. Roberts"
-date: today
+date: 10/13/2022
 categories:
     - technical
     - quarto
